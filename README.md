@@ -24,7 +24,7 @@ We look at various tools including PyTorch serve and MLflow to manage model vers
 
 #### Running the App
 1. From the `deploy` directory, run `uvicorn api:app  --reload` to start your local flask app
-2. Test the app by  going to [http://localhost:8080/docs](http://localhost:8080/docs)
+2. Test the app by  going to [http://localhost:8000/docs](http://localhost:8000/docs)
 
 ## Instructor
 
