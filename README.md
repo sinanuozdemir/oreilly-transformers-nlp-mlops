@@ -10,6 +10,8 @@ We look at various tools including PyTorch serve and MLflow to manage model vers
 
 ### Notebooks
 
+[Model Training/Serving with BERT](notebooks/model_serving.ipynb)
+
 [Model Drift with BERT](notebooks/model_drift.ipynb)
 
 [Deploying models with FastAPI](deploy/)
