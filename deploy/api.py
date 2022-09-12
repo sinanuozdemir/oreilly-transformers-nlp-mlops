@@ -31,8 +31,9 @@ app = FastAPI()
 
 print("loading tokenizer + model")
 tokenizer = DistilBertTokenizerFast.from_pretrained('distilbert-base-uncased')
-sequence_classification_model = DistilBertForSequenceClassification.from_pretrained('./clf')
-    # 'profoz/mlops-demo', num_labels=3, use_auth_token='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'
+sequence_classification_model = DistilBertForSequenceClassification.from_pretrained(
+    'profoz/deploy-mlops-demo', num_labels=3, use_auth_token='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'
+)
     # TODO change to './clf/results' for local use
 
 sequence_classification_model.eval()
