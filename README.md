@@ -7,7 +7,7 @@ This repository contains code for the [O'Reilly Live Online Training for Designi
 In this comprehensive course, machine learning engineers and software developers learn how to transition large language model (LLM) prototypes into fully deployed production systems. Through detailed instruction and real-world case studies, you explore the best practices for integrating LLMs into diverse workflows, ensuring that your models perform effectively in practical applications.
 
 ## Setup Instructions
-
+=======
 
 ### Using Python 3.11 Virtual Environment
 
@@ -116,8 +116,12 @@ python3.11 --version
 ## Instructor
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 **Sinan Ozdemir** is the Founder and CTO of LoopGenius where he uses State of the art AI to help people run digital ads on Meta, Google, and more. Sinan is a former lecturer of Data Science at Johns Hopkins University and the author of multiple textbooks on data science and machine learning. Additionally, he is the founder of the recently acquired Kylie.ai, an enterprise-grade conversational AI platform with RPA capabilities. He holds a master’s degree in Pure Mathematics from Johns Hopkins University and is based in San Francisco, CA.
 
 =======
 *Sinan Ozdemir* is currently the Director of Data Science at Directly, managing the AI and machine learning models that power the company’s intelligent customer support platform. Sinan is a former lecturer of Data Science at Johns Hopkins University and the author of multiple textbooks on data science and machine learning. Additionally, he is the founder of the recently acquired Kylie.ai, an enterprise-grade conversational AI platform with RPA capabilities. He holds a Master’s Degree in Pure Mathematics from Johns Hopkins University and is based in San Francisco, CA.
 >>>>>>> 0418307 (Update README.md)
+=======
+*Sinan Ozdemir* is currently the Director of Data Science at Directly, managing the AI and machine learning models that power the company’s intelligent customer support platform. Sinan is a former lecturer of Data Science at Johns Hopkins University and the author of multiple textbooks on data science and machine learning. Additionally, he is the founder of the recently acquired Kylie.ai, an enterprise-grade conversational AI platform with RPA capabilities. He holds a Master’s Degree in Pure Mathematics from Johns Hopkins University and is based in San Francisco, CA.
+>>>>>>> 041830765db8f06df7c5d898600a92dcb0bcde41
