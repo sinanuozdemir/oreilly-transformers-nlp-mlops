@@ -5,3 +5,4 @@ notebooks/clf/
 notebooks/clean/
 notebooks/drift_clf/
 deploy/clf/
+notebooks/crewai_streamlit/secrets.toml
