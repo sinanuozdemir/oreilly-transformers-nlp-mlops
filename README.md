@@ -1,12 +1,10 @@
 ![oreilly-logo](images/oreilly.png)
 
-# Deploying NLP Models in Production using MLOps
+# Designing and Deploying LLM Pipelines
 
-This repository contains code for the [O'Reilly Live Online Training for Deploying NLP Models in Production using MLOps](https://www.oreilly.com/live-events/deploying-nlp-models-in-production-using-mlops/0636920064921/0636920064920)
+This repository contains code for the [O'Reilly Live Online Training for Designing and Deploying LLM Pipelines](https://learning.oreilly.com/live-events/designing-and-deploying-llm-pipelines/0642572014796)
 
-This training provides an overview to the end-to-end Natural Language Processing pipeline including the initial model training, production deployment and serving, model evaluation, and continuous training cycles to combat model/data drift.
-
-We look at various tools including PyTorch serve and MLflow to manage model versions and deploy them in a production infrastructure. We also see several code examples throughout the training around a semantic search use-case using BERT to help solidify the theoretical concepts being introduced.
+In this comprehensive course, machine learning engineers and software developers learn how to transition large language model (LLM) prototypes into fully deployed production systems. Through detailed instruction and real-world case studies, you explore the best practices for integrating LLMs into diverse workflows, ensuring that your models perform effectively in practical applications.
 
 ### Notebooks
 
