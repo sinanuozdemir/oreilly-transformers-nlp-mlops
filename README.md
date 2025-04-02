@@ -93,6 +93,12 @@ sudo apt install python3.11 python3.11-venv
 python3.11 --version
 ```
 
+You might need to run this command to make the venv findable in jupyter
+
+```bash
+python -m ipykernel install --user --name=oreilly-ai-pipelines --display-name "Python (oreilly-ai-pipelines)"
+```
+
 
 ## Notebooks
 
